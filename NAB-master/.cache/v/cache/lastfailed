@@ -1,0 +1,6 @@
+{
+  "tests/unit/new_detector_test.py": true, 
+  "tests/unit/normalize_test.py": true, 
+  "tests/unit/thresholds_test.py": true, 
+  "tests/unit/utils_test.py": true
+}
